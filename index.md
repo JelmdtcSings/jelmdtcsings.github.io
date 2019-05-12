@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/JelmdtcSings/jelmdtcsings.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 联系方式
+- 手机：15182905913
+- Email：1455713700@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人信息
+- 姓名：刘德川/性别：男/出生年份：1996
+- 本科：西华师范大学/专业：工商管理/2015-2019
+- Github：https://jelmdtcsings.github.io
 
-### Markdown
+### 实习经历
+#### 中国工商银行南充分行（2019.01-2019.04）
+**实习岗位：**
+1月-2月：高坪分行大堂实习
+3月-4月：分行内个金部实习
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**指责描述：**
+1.大堂实习主要协助大唐经理处理非现金业务，主要的操作工具是大堂内的八台智能终端，其次协助银行·社保一体化服务柜台完成社保卡的制卡工作。
+2.个金部实习主要工作是协助杨经理处理不良贷款证券化的数据整理核对工作，并查询打印此类用户的征信，期间还协助整理归档近几年的信用卡调额申请表单。
 
-```markdown
-Syntax highlighted code block
+### 社团项目
+#### 西华师范大学学生公寓学生宿管委员会/北湖校区干事 （2015.09-2017.09）
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JelmdtcSings/jelmdtcsings.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 奖惩情况
+2015年度第一学期一等奖学金、2016年年度第二学期一等奖学金、2015-2016年度优秀团员、2015年度寝室文化艺术节先进个人、2016年度西华师范大学心理委员培训优秀学员、西华师范大学学生宿管安全中心安全知识竞赛三等奖、人力资源资格三级证书、2015-2016年度优秀团员、2015-2016年度三好学生、2017年度第5学期学习优胜单项奖、2018年度第六学期二等奖学金、英语四六级证书，计算机二级证书。
